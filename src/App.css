@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
 
 .App {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   margin: 60px auto;
 }
 
@@ -16,6 +16,11 @@
   align-items: center;
 }
 
-h1 {
+body {
+  background: #ffeeee;
+  color: #3a2d80;
+}
+
+.App h1 {
   text-align: center;
 }
