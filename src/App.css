@@ -2,23 +2,19 @@
 
 .App {
   font-family: 'DM Sans', sans-serif;
-  margin: 60px auto;
-}
-
-.App-logo {
-  max-width: 200px;
-  display: block;
   margin: 0 auto;
+  max-width: 960px;
 }
 
 .App-header {
   display: block;
   align-items: center;
+  margin: 60px auto;
 }
 
 body {
   background: #ffeeee;
-  color: #3a2d80;
+  color: #363062;
 }
 
 .App h1 {
